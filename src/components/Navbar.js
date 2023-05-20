@@ -54,7 +54,7 @@ const Navbar = () => {
             </li>
             <li>
               <a
-                href="https://www.instagram.com/thapatechnical/"
+                href="https://www.youtube.com/@sonikaskitchen2748"
                 target="_thapa"
               >
                 <FaInstagramSquare className="instagram" />
@@ -62,7 +62,7 @@ const Navbar = () => {
             </li>
             <li>
               <a
-                href="https://www.youtube.com/channel/UCwfaAHy4zQUb2APNOGXUCCA"
+                href="https://www.youtube.com/@sonikaskitchen2748"
                 target="_thapa"
               >
                 <FaYoutubeSquare className="youtube" />
